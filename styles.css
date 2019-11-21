@@ -18,8 +18,12 @@ header {
 	padding: 1.875em 0;
 }
 
-header h1 {
+#myheader {
 	text-align: center;
+}
+
+.stone_names {
+	font-size: 2em;
 }
 
 h1, h2 {
@@ -66,3 +70,6 @@ img {
     align: center;
 }
 
+.class
+
+#id
